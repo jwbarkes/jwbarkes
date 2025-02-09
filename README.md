@@ -14,6 +14,11 @@ I'm a Computer Science student at the University of California, San Diego, with 
 - **Center for Health Design:** Developing interactive AR applications and deploying them on platforms like Apple Vision Pro and Meta Quest 2.
 - **Past Projects:** Developed an environment reconstruction tool using ARKit and MeshLab, created collaborative AR experiences, and built machine learning models for medical data analysis.
 
+#### Environment Reconstruction of my Research Lab at National Taiwan University:
+<p align="center">
+    <img width="50%" src="https://github.com/jwbarkes/ARLab/blob/main/model.png">
+</p>
+
 ## 📚 About Me
 I have experience in machine learning, backend/frontend development, and AR/VR technologies. Always exploring new ways to connect users with immersive, meaningful tech experiences.
 
