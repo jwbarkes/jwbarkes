@@ -11,8 +11,13 @@ I'm a Computer Science student at the University of California, San Diego, with 
 
 ## 🔭 What I'm Working On:
 - **LifeSaver AR Project:** Designing AR user interfaces to provide real-time health statistics and first-aid guidance using Unity, Node.js, and image tracking technologies.
-- **Center for Health Design:** Developing interactive AR applications and deploying them on platforms like Apple Vision Pro and Meta Quest 2.
+- **Truck Driving Game:** Developing a video game in which the user drives a truck through a city, which acts as a resume by showing the player my projects and experience through notable locations on the map.
 - **Past Projects:** Developed an environment reconstruction tool using ARKit and MeshLab, created collaborative AR experiences, and built machine learning models for medical data analysis.
+
+### Trucking Driving Game:
+<p align="center">
+    <img width="50%" src="https://github.com/jwbarkes/GameDev/blob/main/Screenshots/GameDemo.gif">
+</p>
 
 #### Environment Reconstruction of my Research Lab at National Taiwan University:
 <p align="center">
