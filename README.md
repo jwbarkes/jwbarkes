@@ -30,8 +30,3 @@ I'm a Computer Science student at the University of California, San Diego, with 
 <p align="center">
     <img width="50%" src="https://github.com/jwbarkes/GameDev/blob/main/Screenshots/GameDemo.gif">
 </p>
-
-## 📚 About Me
-I have experience in machine learning, backend/frontend development, and AR/VR technologies. Always exploring new ways to connect users with immersive, meaningful tech experiences.
-
-###
